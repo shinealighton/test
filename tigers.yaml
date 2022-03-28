@@ -1,10 +1,9 @@
 # 파일 생성2
 team: Tigers
 
-manager: John -> Donald
+manager: John
 
 members:
-- George 추가
 - Linda
 - William
 - David
